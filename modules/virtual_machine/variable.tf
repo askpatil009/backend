@@ -1,0 +1,13 @@
+variable "name" {}
+variable "location" {}
+variable "vmname" {}
+variable "size" {}
+variable "username" {}
+variable "password" {}
+variable "password_aut" {}
+variable "caching" {}
+variable "sa_type" {}
+variable "publisher" {}
+variable "offer" {}
+variable "sku" {}
+variable "version" {}
